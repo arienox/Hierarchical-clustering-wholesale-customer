@@ -16,7 +16,7 @@ sklearn
 ```
 You can install these packages using pip.
 
-##Once you have the necessary packages installed, you can run the code by using the following command:
+## Once you have the necessary packages installed, you can run the code by using the following command:
 
 > python wholesale_customers_clustering.py
 
